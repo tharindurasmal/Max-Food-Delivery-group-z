@@ -5,12 +5,13 @@ include('components/connect.php');
 
 ?>
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Max Foods</title>
+    <title>Max Foos</title>
     <link rel="shortcut icon" href="images/logo/logo.svg" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
     <!--font awesome cdn link-->
